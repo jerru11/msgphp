@@ -27,6 +27,11 @@ final class UserIdentity implements UserInterface, EquatableInterface, EncoderAw
     /** @var string */
     private $hashing;
 
+    public function __toString()
+    {
+        return $this->getUsername();
+    }
+
     /**
      * @param array<int, string> $roles
      */
