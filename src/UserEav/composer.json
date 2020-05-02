@@ -1,5 +1,5 @@
 {
-    "name": "msgphp/user-eav",
+    "name": "jerru11/user-eav",
     "type": "library",
     "description": "A bridge between the `User` and `EAV` domain",
     "keywords": [
@@ -18,8 +18,8 @@
         }
     ],
     "require": {
-        "msgphp/eav": "^0.16",
-        "msgphp/user": "^0.16"
+        "jerru11/eav": "^0.16",
+        "jerru11/user": "^0.16"
     },
     "config": {
         "preferred-install": {

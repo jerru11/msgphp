@@ -1,5 +1,5 @@
 {
-    "name": "msgphp/user-bundle",
+    "name": "jerru11/user-bundle",
     "type": "symfony-bundle",
     "description": "Basic user management (the `User` domain)",
     "keywords": [
@@ -14,7 +14,7 @@
         }
     ],
     "require": {
-        "msgphp/user": "^0.16",
+        "jerru11/user": "^0.16",
         "symfony/config": "^3.4 || ^4.4 || ^5.0",
         "symfony/dependency-injection": "^3.4 || ^4.4 || ^5.0",
         "symfony/http-kernel": "^3.4 || ^4.4 || ^5.0"

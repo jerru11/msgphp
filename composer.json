@@ -1,5 +1,5 @@
 {
-    "name": "msgphp/msgphp",
+    "name": "jerru11/msgphp",
     "description": "Combined MsgPHP package for CI purposes",
     "require": {
         "doctrine/doctrine-bundle": "^2.0",

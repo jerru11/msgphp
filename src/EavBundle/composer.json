@@ -1,5 +1,5 @@
 {
-    "name": "msgphp/eav-bundle",
+    "name": "jerru11/eav-bundle",
     "type": "symfony-bundle",
     "description": "Basic entity-attribute-value management (the `EAV` domain)",
     "keywords": [
@@ -14,7 +14,7 @@
         }
     ],
     "require": {
-        "msgphp/eav": "^0.16",
+        "jerru11/eav": "^0.16",
         "symfony/config": "^3.4 || ^4.4 || ^5.0",
         "symfony/dependency-injection": "^3.4 || ^4.4 || ^5.0",
         "symfony/http-kernel": "^3.4 || ^4.4 || ^5.0"

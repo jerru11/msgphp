@@ -1,5 +1,5 @@
 {
-    "name": "msgphp/user",
+    "name": "jerru11/user",
     "type": "library",
     "description": "A domain layer providing basic user management",
     "keywords": [
@@ -17,7 +17,7 @@
         }
     ],
     "require": {
-        "msgphp/domain": "^0.16"
+        "jerru11/domain": "^0.16"
     },
     "require-dev": {
         "doctrine/orm": "^2.6",
